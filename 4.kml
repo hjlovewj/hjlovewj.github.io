@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>스페인(4일차)</name>
+  <description><![CDATA[]]></description>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>El Rey de la Gamba</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>2.188821,41.377205,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Montjuïc Castle</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>2.165508,41.364014,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Estadi Olímpic</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>2.155348,41.366215,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Poble Espanyol</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>2.148273,41.368809,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Magic Fountain of Montjuic</name>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>2.151797,41.371052,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fàbrica Moritz Barcelona</name>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>2.163442,41.382629,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>스페인(1일차)</name>
+  <description><![CDATA[]]></description>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>planelles donat</name>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>2.171414,41.386627,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurant Centonze</name>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>2.171028,41.383728,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La Boqueria</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>2.171745,41.381741,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tablao Flamenco Cordobés</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>2.174830,41.379131,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

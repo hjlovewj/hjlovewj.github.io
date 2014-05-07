@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>스페인(2일차)</name>
+  <description><![CDATA[]]></description>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Passeig de Gràcia</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>2.167804,41.389771,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>placa del rei</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>2.177613,41.383991,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Barcelona Cathedral</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>2.176200,41.383961,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>pl. de la seu</name>
+    <description><![CDATA[<div dir="ltr">세우광장</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>2.175861,41.384460,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>노바광장</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>2.175188,41.384289,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Col.legi d&#39;Arquitectes de Catalunya</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>2.175076,41.384445,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>lizarran</name>
+    <description><![CDATA[<div dir="ltr">리사란 핀쵸스바</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>2.175512,41.386097,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaça Sant Jaume</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>2.177031,41.382774,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>meson del cafe</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>2.177616,41.383148,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Basilica of Santa Maria del Mar</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>2.182256,41.383980,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Picasso Museum</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>2.180969,41.385246,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Els 4Gats</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>2.173574,41.385818,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palau de la Música Catalana</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>2.175313,41.387573,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cervecería Catalana</name>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>2.160817,41.392372,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
